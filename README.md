@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### I'm Kphilleani
 
-- 🎓 HeiLongJiang university
+- 🎓 Heilongjiang university
 - 🏠 Front-End
 - 📖 Github:用于个人项目与学习
 - 📦 邮箱：964202623@qq.com
