@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kphilleani&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
- Front-end: Kphilleani
- Github个人项目，学习记录
-<img src="https://github-profile-trophy.vercel.app/?username=Kphilleani&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=polaris1119&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+### I'm Kphilleani
+
+- 🎓 HeiLongJiang university
+- 🏠 Front-End
+- 📖 Github:用于个人项目与学习
+- 📦 邮箱：964202623@qq.com
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=polaris1119&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
