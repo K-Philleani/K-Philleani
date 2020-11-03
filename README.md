@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### I'm Kphilleani
 
-- 🎓 Heilongjiang university
-- 🏠 Front-End
-- 📖 Github:用于个人项目与学习
-- 📦 邮箱：964202623@qq.com
+- 🎓  黑龙江大学
+- 🏠  前端开发
+- 📖  Github:用于个人项目与学习
+- 📦  邮箱：964202623@qq.com
 
 
